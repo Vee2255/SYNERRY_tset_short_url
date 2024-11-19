@@ -1,4 +1,5 @@
 # short_url
+<<<<<<< HEAD
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -27,3 +28,6 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+โจทย์ สำหรับทดสอบ Developer ของ JigsawGroups
+>>>>>>> 1cd3cff347f938656cd193bde4d960e9aedf8d66
